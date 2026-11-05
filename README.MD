@@ -1,3 +1,14 @@
+> [!CAUTION]
+> ### ⚠️ Project Status: Deprecated & Read-Only
+> 
+> **This repository is archived and no longer maintained.**
+> 
+> A recent security and technical review identified multiple vulnerabilities and architectural limitations that will not be addressed. 
+> 
+> Before referencing, deploying, or adapting any code from this repository, you **must review** [`securityAndTechnicalDebtAssessment.md`](./securityAndTechnicalDebtAssessment.md) at the root of this project. 
+> 
+> **Use at your own risk.** This project is provided "as is", without warranty of any kind, and is not recommended for production environments.
+
 # Grafana + Loki + Caddy Buildpack for Scalingo
 
 This buildpack installs and configures a complete observability stack on Scalingo, running:
